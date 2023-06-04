@@ -91,8 +91,4 @@ class Employee{
         this.setSalary(totalSalary);
         return totalSalary;
     }
-     
-//     void AddingBounsToSalary(String Position){
-//         
-//     }
 }
